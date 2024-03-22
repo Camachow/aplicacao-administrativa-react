@@ -6,6 +6,7 @@ const Container = styled.div`
   border-radius: 16px;
   padding: 2em;
   height: 100%;
+  gap: 2em;
 `;
 
 export default Container;
